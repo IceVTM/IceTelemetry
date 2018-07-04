@@ -1,0 +1,183 @@
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Plugins\win_x64\plugins\ets2-telemetry-server.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Plugins\win_x86\plugins\ets2-telemetry-server.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\donate-link.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\jquery.signalR-2.2.0.min.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.css
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.html
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.jpg
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\images\bg-off.jpg
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\images\bg-on.jpg
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2TestTelemetry.json
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\config.json
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\config.json
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\dashboard-host.css
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\dashboard-host.html
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\app-icon.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\disclosure.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\menu-background.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\index.css
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\index.html
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\app.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\config.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\dashboard-core.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\doT.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\jquery.min.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\menu.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.css
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.html
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.jpg
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\bg-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\bg-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-left-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-left-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-right-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-right-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\cruise-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\cruise-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\highbeam-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\highbeam-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\lowbeam-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\lowbeam-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\parklights-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\parklights-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\trailer-off.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\trailer-on.png
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\cordova.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\cordova-app.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\platformOverrides.js
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.exe.config
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.exe
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.pdb
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\log4net.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Owin.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Owin.WebSocket.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Cors.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\log4net.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csprojAssemblyReference.cache
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.MainForm.resources
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.Properties.Resources.resources
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.SetupForm.resources
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.GenerateResource.cache
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.CoreCompileInputs.cache
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.CopyComplete
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Ets2Telemetry.exe
+C:\Users\Connor Freebairn\Desktop\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Ets2Telemetry.pdb
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Plugins\win_x64\plugins\ets2-telemetry-server.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Plugins\win_x86\plugins\ets2-telemetry-server.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\donate-link.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\jquery.signalR-2.2.0.min.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.css
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.html
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.jpg
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\dashboard.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\images\bg-off.jpg
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\images\bg-on.jpg
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2TestTelemetry.json
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\config.json
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\template\config.json
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\dashboard-host.css
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\dashboard-host.html
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\app-icon.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\disclosure.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\images\menu-background.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\index.css
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\index.html
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\app.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\config.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\dashboard-core.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\doT.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\jquery.min.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\menu.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.css
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.html
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.jpg
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\dashboard.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\bg-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\bg-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-left-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-left-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-right-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\blinker-right-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\cruise-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\cruise-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\highbeam-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\highbeam-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\lowbeam-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\lowbeam-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\parklights-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\parklights-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\trailer-off.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\skins\default\images\trailer-on.png
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\cordova.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\cordova-app.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Html\scripts\platformOverrides.js
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.exe.config
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.exe
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Ets2Telemetry.pdb
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\log4net.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Owin.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Owin.WebSocket.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Cors.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\log4net.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csprojAssemblyReference.cache
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.MainForm.resources
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.Properties.Resources.resources
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.SetupForm.resources
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.GenerateResource.cache
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.CoreCompileInputs.cache
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Funbit.Ets.Telemetry.Server.csproj.CopyComplete
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Ets2Telemetry.exe
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\Ets2Telemetry.pdb
+C:\Users\Connor Freebairn\Desktop\ICE VTC Tracker\ets2-telemetry-server-master\source\Funbit.Ets.Telemetry.Server\obj\Debug\ICE.VTC.TELEMETRY.Properties.Resources.resources
